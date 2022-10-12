@@ -1,0 +1,9 @@
+{
+	"name": "taxi_finder_function",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "suriyanarayanan.ad20@bitsathy.ac.in",
+	"dependencies": {
+		"zcatalyst-sdk-node": "latest"
+	}
+}
